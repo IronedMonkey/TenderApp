@@ -1,0 +1,7 @@
+.form-error {
+  color:red
+}
+
+form input, form select, form textarea, form button, .form-error {
+  margin: 1% 0 0 0
+}
